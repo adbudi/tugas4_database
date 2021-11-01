@@ -9,7 +9,10 @@
 
 ### 3. Buatlah struktur table sepakbola sebagai berikut:
 ![gambar](https://user-images.githubusercontent.com/84311409/139655377-20b3dcf1-c8b3-4aeb-9f69-1674ccbfeacc.png)
-create table sepakbola
+
+<br>
+### 
+     create table sepakbola
     -> (id_pemain INT(11) NOT NULL PRIMARY KEY AUTO_INCREMENT,
     -> nama_pemain VARCHAR(100),
     -> usia_pemain INT(2),
